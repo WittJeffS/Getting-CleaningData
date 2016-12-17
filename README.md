@@ -12,6 +12,6 @@ Files
 
 CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
-CleaningDataProject.R contains the script associated with this class project, which combines the various original files and creates a tidy data set.
+run_analysis.R contains the script associated with this class project, which combines the various original files and creates a tidy data set.
 
 averages_data.txt - is a text file with reflects the result of the transformantion of the data via the aforementioned R script.
