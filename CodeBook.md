@@ -1,5 +1,5 @@
 #Introduction
-The script CleaningDataProject.R is associated with the class project in the Coursera Data Science - Getting and Cleaning Data.  The script downloads and unzips data from a website into a new folder. At this point transformation of the data begine via the following steps:
+The script run_analysis.R is associated with the class project in the Coursera Data Science - Getting and Cleaning Data.  The script downloads and unzips data from a website into a new folder. At this point transformation of the data begine via the following steps:
 
 1) Merges the training and the test sets to create one data set, using the rbind() function. 
 
